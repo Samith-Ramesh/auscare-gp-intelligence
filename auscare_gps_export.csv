@@ -1,0 +1,11 @@
+doctor_name,clinic_name,street_address,suburb,state,postcode,phone_number,bulk_billing,specialties
+Dr. Masood Noroozian Avval,Lotus Medical Centre,285 Moray Street,South Melbourne,VIC,3205,(03) 9699 9122,No,"Chronic Disease Management, Diabetes Care, Skin Checks"
+Dr. Maryam Assadollahianbonab,Lotus Medical Centre,285 Moray Street,South Melbourne,VIC,3205,(03) 9699 9122,No,"Women's Health, Antenatal Care, Family Medicine"
+Dr. Magdy Ramzy,Lotus Medical Centre,285 Moray Street,South Melbourne,VIC,3205,(03) 9699 9122,Yes,"Pediatric Care, Immunisations, Minor Surgeries"
+Dr. Siew Li Tan,Lotus Medical Centre,285 Moray Street,South Melbourne,VIC,3205,(03) 9699 9122,No,"Preventive Health, Geriatric Medicine, Mental Health Plans"
+Dr. Mohsen Sadrneshin,Lotus Medical Centre,285 Moray Street,South Melbourne,VIC,3205,(03) 9699 9122,No,"Men's Health, Travel Medicine, Cardiology Screening"
+Dr. Lachlan Murphy,Sydney CBD Medical & Wellness Centre,"Suite 401, Level 4, 321 George St",Sydney,NSW,2000,(02) 9231 4455,No,"Preventative Health, Travel Medicine, Men's Health"
+Dr. Priya Sen,St Kilda Bayside Family Clinic,"Shop 2, 78 Acland Street",St Kilda,VIC,3182,(03) 9534 8920,Yes,"Pediatric Care, Women's Health, Dermatology"
+Dr. Darcy Wilson,Fortitude Valley Community Doctors,1040 Ann St,Fortitude Valley,QLD,4006,(07) 3852 1100,No,"Mental Health Treatment Plans, ADHD Management, Youth Health"
+Dr. Amina El-Masri,Fremantle Portside Practice,12 Henderson Street,Fremantle,WA,6160,(08) 9430 7711,Yes,"Geriatric Medicine, Diabetes Management, Chronic Illness Care"
+Dr. Jason Chen,Parramatta Riverside Medical Group,150 Church Street,Parramatta,NSW,2150,(02) 9687 3344,Yes,"Occupational Health, Workers Compensation, Skin Cancer Checks"
