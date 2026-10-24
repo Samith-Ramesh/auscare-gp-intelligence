@@ -1,5 +1,9 @@
 # AusCare GP Intelligence Engine 🇦🇺🩺
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://auscare-gp-intelligence-e4u6kdkngrf2ugdn58dn4r.streamlit.app)
+
+*Live Web Application:* [Launch AusCare Engine](https://auscare-gp-intelligence-e4u6kdkngrf2ugdn58dn4r.streamlit.app)
+
 An intelligent, natural-language healthcare search engine and directory for Australian General Practitioners (GPs). Powered by SQLite, Streamlit, and Google's Gemini models.
 
 ---
